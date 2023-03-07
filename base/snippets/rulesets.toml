@@ -1,6 +1,14 @@
 [[rulesets]]
-group = "🎯 全球直连"
-ruleset = "rules/LocalAreaNetwork.list"
+group = "🏡 HomeLab"
+ruleset = "rules/HomeLab.list"
+
+[[rulesets]]
+group = "🚅 Zetyun"
+ruleset = "rules/Zetyun.list"
+
+[[rulesets]]
+group = "🛵 Yatu"
+ruleset = "rules/Yatu.list"
 
 [[rulesets]]
 group = "Ⓜ️ 微软服务"

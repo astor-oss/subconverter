@@ -89,3 +89,21 @@ rule = ["[]🔰 节点选择",
 "[]🎯 全球直连",
 "[]♻️ 自动选择",
 ".*"]
+
+[[custom_groups]]
+name = "🏡 HomeLab"
+type = "select"
+rule = ["[]🎯 全球直连",
+".*"]
+
+[[custom_groups]]
+name = "🚅 Zetyun"
+type = "select"
+rule = ["[]🎯 全球直连",
+".*"]
+
+[[custom_groups]]
+name = "🛵 Yatu"
+type = "select"
+rule = ["[]🎯 全球直连",
+".*"]
