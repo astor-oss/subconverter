@@ -196,6 +196,7 @@ static=🐟 漏网之鱼, direct, img-url=https://raw.githubusercontent.com/Kool
 static=🏡 HomeLab, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/DomesticMedia.png
 static=🚅 Zetyun, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/DomesticMedia.png
 static=🛵 Yatu, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/DomesticMedia.png
+static=🛵 JnSoftpark, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/DomesticMedia.png
 
 [server_remote]
 

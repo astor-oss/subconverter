@@ -11,6 +11,10 @@ group = "🛵 Yatu"
 ruleset = "rules/Yatu.list"
 
 [[rulesets]]
+group = "🛵 JnSoftpark"
+ruleset = "rules/JnSoftpark.list"
+
+[[rulesets]]
 group = "Ⓜ️ 微软服务"
 ruleset = "rules/MSServices.list"
 
