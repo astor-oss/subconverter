@@ -15,6 +15,10 @@ group = "🛵 JnSoftpark"
 ruleset = "rules/JnSoftpark.list"
 
 [[rulesets]]
+group = "🤖 ChatGPT"
+ruleset = "rules/ChatGPT.list"
+
+[[rulesets]]
 group = "Ⓜ️ 微软服务"
 ruleset = "rules/MSServices.list"
 

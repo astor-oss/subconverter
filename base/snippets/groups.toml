@@ -113,3 +113,9 @@ name = "🛵 JnSoftpark"
 type = "select"
 rule = ["[]🎯 全球直连",
 ".*"]
+
+[[custom_groups]]
+name = "🤖 ChatGPT"
+type = "select"
+rule = ["[]🎯 全球直连",
+".*"]
