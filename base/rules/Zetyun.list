@@ -1,3 +1,4 @@
 IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
 DOMAIN-SUFFIX,gitlab.datacanvas.com
+DOMAIN-SUFFIX,work.dingodb.top
