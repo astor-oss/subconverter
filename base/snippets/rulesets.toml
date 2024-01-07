@@ -7,6 +7,10 @@ group = "🚅 Zetyun"
 ruleset = "rules/Zetyun.list"
 
 [[rulesets]]
+group = "🚅 DataCanvasSvc"
+ruleset = "rules/DataCanvasSvc.list"
+
+[[rulesets]]
 group = "🛵 Yatu"
 ruleset = "rules/Yatu.list"
 

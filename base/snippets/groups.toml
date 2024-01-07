@@ -103,6 +103,12 @@ rule = ["[]🎯 全球直连",
 ".*"]
 
 [[custom_groups]]
+name = "🚅 DataCanvasSvc"
+type = "select"
+rule = ["[]🎯 全球直连",
+".*"]
+
+[[custom_groups]]
 name = "🛵 Yatu"
 type = "select"
 rule = ["[]🎯 全球直连",
