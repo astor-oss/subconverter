@@ -22,16 +22,16 @@ DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
 # > Apple
-DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,apple.co
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple-cloudkit.com
-DOMAIN-SUFFIX,appstore.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,mzstatic.com
+#DOMAIN-SUFFIX,aaplimg.com
+#DOMAIN-SUFFIX,apple.co
+#DOMAIN-SUFFIX,apple.com
+#DOMAIN-SUFFIX,apple-cloudkit.com
+#DOMAIN-SUFFIX,appstore.com
+#DOMAIN-SUFFIX,cdn-apple.com
+#DOMAIN-SUFFIX,icloud.com
+#DOMAIN-SUFFIX,icloud-content.com
+#DOMAIN-SUFFIX,me.com
+#DOMAIN-SUFFIX,mzstatic.com
 # DOMAIN-KEYWORD,apple.com.akadns.net
 # DOMAIN-KEYWORD,icloud.com.akadns.net
 # > Baidu
@@ -116,10 +116,10 @@ DOMAIN-SUFFIX,visualstudio.com
 # DOMAIN-SUFFIX,1drv.com
 # DOMAIN-SUFFIX,storage.live.com
 # >> Outlook
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN-SUFFIX,outlook.com
-DOMAIN,outlook.office365.com
-DOMAIN,smtp.office365.com
+#DOMAIN-SUFFIX,hotmail.com
+#DOMAIN-SUFFIX,outlook.com
+#DOMAIN,outlook.office365.com
+#DOMAIN,smtp.office365.com
 # >> Windows Server Update Services
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,update.microsoft.com
@@ -320,8 +320,8 @@ DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,nim-lang-cn.org
 DOMAIN-SUFFIX,ntp.org
-DOMAIN-SUFFIX,nvidia.com
-DOMAIN-SUFFIX,oracle.com
+#DOMAIN-SUFFIX,nvidia.com
+#DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,qweather.com

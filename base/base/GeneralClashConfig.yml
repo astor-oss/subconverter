@@ -666,7 +666,7 @@ cfw-bypass:
   - "*.nruan.com"
   - "*.nuomi.com"
   - "*.onlinedown.net"
-  - "*.oracle.com"
+#  - "*.oracle.com"
   - "*.oschina.net"
   - "*.ourdvs.com"
   - "*.overcast.fm"
